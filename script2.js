@@ -22,7 +22,7 @@ function logar() {
                     window.location.href = 'admin.html';
                 } else {
                     mensagem = "Parabéns, você logou!";
-                    window.location.href = 'Home.html';
+                    window.location.href = 'home.html';
                 }
                 alert(mensagem);
                 return;
